@@ -1,0 +1,26 @@
+.audio-recorder-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .button-container {
+    margin-bottom: 20px;
+  }
+  
+  .start-button, .stop-button, .download-button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .start-button:hover, .stop-button:hover, .download-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .media-container {
+    margin-top: 20px;
+  }
